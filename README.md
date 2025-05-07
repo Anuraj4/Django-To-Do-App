@@ -32,13 +32,13 @@ This To-Do application allows users to register, log in, and manage their tasks.
 ## Screenshots
 
 #### Login Page
-![Login Page](https://via.placeholder.com/800x400.png?text=Login+Page)
+![Login Page](https://github.com/Anuraj4/Images/blob/main/login.png)
 
 #### Task List
-![Task List](https://via.placeholder.com/800x400.png?text=Task+List)
+![Task List](https://github.com/Anuraj4/Images/blob/main/task_list.png)
 
 #### Add Task Page
-![Add Task](https://via.placeholder.com/800x400.png?text=Add+Task+Page)
+![Add Task](https://github.com/Anuraj4/Images/blob/main/add_task.png)
 
 *Note: Replace the placeholder links with your actual project screenshots.*
 
