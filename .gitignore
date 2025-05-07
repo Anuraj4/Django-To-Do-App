@@ -1,1 +1,35 @@
-venv
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Django DB file
+*.sqlite3
+
+# Environment
+.env
+venv/
+ENV/
+env/
+*.env
+
+# Django static and media (optional, if dynamically generated)
+staticfiles/
+media/
+
+# VS Code and IDEs
+.vscode/
+.idea/
+
+# Migrations (optional, but usually kept)
+# Uncomment below to ignore migrations:
+# */migrations/
+# !*/migrations/__init__.py
+
+# Logs
+*.log
+
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
